@@ -5,8 +5,10 @@ public class Employee {
   public static void main(String[] args) {
 
     // Create a variable called age of type int and assign it the value 29.
+    int age = 29;
 
     // Print the age variable to the console.
+    System.out.println(age);
 
     // Create a variable called isAManager of type boolean and assign it the value
     // true.
